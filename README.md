@@ -1,13 +1,10 @@
 ## Demo
-
-https://aeykeyzs.github.io/speech-to-text/
+<a href="https://aeykeyzs.github.io/speech-to-text/" target="_blank">Visit Demo</a>
 
 ## Follow
 for more tips and tricks
 
-Subscribe to my YouTube Channel: https://www.youtube.com/@snippetzz
-
-And follow me on instagram: https://www.instagram.com/snippet.zz/
+Subscribe to my <a href="https://www.youtube.com/@amsnippetzz" target="_blank">YouTube Channel</a> and follow me on <a href="https://www.instagram.com/snippet.zz/" target="_blank">Instagram</a>
 
 # Speech To Text JS
 
@@ -69,3 +66,5 @@ In your HTML, or main JavaScript file, you need to import the 'testSpeech.js' Ja
 ```
 
 For more documentation over JavaScript functionality, refer to the 'testSpeech.js' JavaScript file.
+
+For more information, check <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">SpeechRecognition Editor's draft</a>
